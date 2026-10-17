@@ -1,6 +1,6 @@
 {
   "name": "Calibration",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Calibration lineaire generique (offset + gain) : deux formes (offset avant/apres gain), modes point unique, deux points, regression N points, zero/span, reset. Header-only, depend de Smoothing (lissage du brut + regression robuste).",
   "keywords": "calibration, offset, gain, regression, linear, capteur, sensor, smoothing",
   "license": "GPL-3.0-only",
