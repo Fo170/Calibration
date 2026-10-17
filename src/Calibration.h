@@ -25,6 +25,9 @@
 #ifndef CALIBRATION_H
 #define CALIBRATION_H
 
+
+// Version de la librairie (source UNIQUE — agrégée par liste_lib.h)
+#define __CALIBRATION_H_VERSION__ "1.1.0"
 #include <math.h>
 #include <Smoothing.h>
 
